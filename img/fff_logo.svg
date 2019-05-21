@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="238px" height="238px" viewBox="0 0 238 238" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>round_arrow@2x copy 6</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="round_arrow@2x-copy-6" transform="translate(119.000000, 119.000000) scale(1, -1) rotate(-270.000000) translate(-119.000000, -119.000000) translate(7.000000, 7.000000)" stroke-width="13">
+            <circle id="Ellipse_2_copy_27" stroke="#DA1301" fill="#DA1301" cx="112" cy="112" r="112"></circle>
+            <polyline id="Path" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="60 121 164 121 140 82"></polyline>
+            <path d="M132,121 L112.5,89.5" id="Path-2" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>
